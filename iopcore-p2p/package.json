@@ -1,6 +1,6 @@
 {
-  "name": "iopcore-p2p-",
-  "version": "0.1.0",
+  "name": "iopcore-p2p",
+  "version": "0.1.1",
   "description": "Interface to the IoP P2P network for IoPcore",
   "author": "IoP Community",
   "main": "index.js",
@@ -28,7 +28,7 @@
     "url": "https://github.com/hendry19901990/iopcore-p2p.git"
   },
   "dependencies": {
-    "iopcore-lib": "^0.1.0",
+    "iopcore-lib": "^0.1.1",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
